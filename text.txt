@@ -1,0 +1,6 @@
+ remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+PS C:\Users\SomireddyNireesha\OneDrive - Ramp Group Technologies\Desktop\sample> git remote -v
+origin  https://github.com/nireesha-somireddy/sample.git (fetch)
+origin  https://github.com/nireesha-somireddy/sample.git (push)
+PS C:\Users\SomireddyNireesha\OneDrive - Ramp Group Technologies\Desktop\sample> git branch reg
