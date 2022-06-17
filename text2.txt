@@ -1,0 +1,6 @@
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+PS C:\Users\SomireddyNireesha\OneDrive - Ramp Group Technologies\Desktop\sample> git branch fact
+PS C:\Users\SomireddyNireesha\OneDrive - Ramp Group Technologies\Desktop\sample> git checkout fact
+Switched to branch 'fact'
+PS C:\Users\SomireddyNireesha\OneDrive - Ramp Group Technologies\Desktop\sample> git branch -a
